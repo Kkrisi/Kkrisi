@@ -6,13 +6,7 @@
 - 🚀 I’m looking to collaborate on exciting, forward-thinking projects that push boundaries in software development.
 - 📫 How to reach me: kadarkrisi@gmail.com
 
-l
-l
-l
-l
-l
-l
-l
+<!--
 - ⚡ Thought-provoking ideas: ...
 
 
@@ -29,3 +23,5 @@ l
 🧬💪 Human Genetic Engineering: AI-driven CRISPR technology could enhance cognitive abilities and physical strength, leading to a new era of "superhumans" with optimized biology.
 
 ⏳🔮 AI-Driven Time Manipulation: While time travel remains theoretical, advanced AI could simulate the universe to explore past events or alter our perception of time within digital experiences. 
+
+-->
