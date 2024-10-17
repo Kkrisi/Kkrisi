@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently developing a machine learning-based chessbot that analyzes player strategies and adapts its gameplay in real-time, alongside a smart chat application inspired by Jarvis using React and GraphQL for intelligent communication. Additionally, I’m creating a Python-based translation tool leveraging NLP to provide immediate translations of foreign languages, enhancing user interaction across different platforms.
+- 🔭 I’m developing a machine learning chessbot, a smart chat application inspired by Jarvis, and a Python-based NLP translation tool for real-time user interaction.
 - 🌱 I’m diving deep into Solar & Wind Technology, Biomedical Engineering, AgTech and Nanotechnology.
 - 🚀 I’m looking to collaborate on exciting, forward-thinking projects that push boundaries in software development.
 - 📫 How to reach me: kadarkrisi@gmail.com
