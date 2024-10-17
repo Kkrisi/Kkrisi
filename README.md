@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-<!--
+
 - 🔭 I’m currently developing a machine learning-based chessbot that analyzes player strategies and adapts its gameplay in real-time, alongside a smart chat application inspired by Jarvis using React and GraphQL for intelligent communication. Additionally, I’m creating a Python-based translation tool leveraging NLP to provide immediate translations of foreign languages, enhancing user interaction across different platforms.
 - 🌱 I’m diving deep into Solar & Wind Technology, Biomedical Engineering, AgTech and Nanotechnology.
 - 🚀 I’m looking to collaborate on exciting, forward-thinking projects that push boundaries in software development.
 - 📫 How to reach me: kadarkrisi@gmail.com
 - ⚡ Thought-provoking ideas: ...
--->
+
 The future beyond self-driving cars, self-aware robots, and AI-powered rockets promises radical innovations. Here are a few exciting possibilities:
 🧠✨ Brain-Computer Interfaces (BCIs): Imagine communicating through thought alone. BCIs could allow us to share ideas, emotions, and memories instantly, creating mind-to-mind networks.
 👾🌐 Digital Immortality: Advances in AI may enable us to upload our consciousness, allowing our personalities and memories to exist in virtual spaces or robotic bodies, letting us interact with the world long after we’re gone.
