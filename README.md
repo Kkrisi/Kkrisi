@@ -6,14 +6,13 @@
 - 🚀 I’m looking to collaborate on exciting, forward-thinking projects that push boundaries in software development.
 - 📫 How to reach me: kadarkrisi@gmail.com
 
-.
-.
-.
-.
-.
-.
-.
-.
+l
+l
+l
+l
+l
+l
+l
 - ⚡ Thought-provoking ideas: ...
 
 
